@@ -1,6 +1,6 @@
 {
   "name": "super-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "best quality emoji for project",
   "main": "lib/index.js",
   "scripts": {
