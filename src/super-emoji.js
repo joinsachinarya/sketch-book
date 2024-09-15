@@ -1,9 +1,8 @@
 import React from 'react'
 
-
-const SuperEmoji = ({ emoji = "hi" }) => {
+const SuperEmoji = ({ emoji = "👋" }) => {
   return (
-    <span>{emoji} hi</span>
+    <span>{emoji}</span>
   )
 }
 
